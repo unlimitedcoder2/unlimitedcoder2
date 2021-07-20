@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BananaPuncher714/NBTEditor</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doki-theme/doki-theme-vscode</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1565,7 +1565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waifu-motivator/waifu-motivator-plugin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ani-memes/AMII</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2037,7 +2037,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.620999999999995 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.652 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2065,7 +2065,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6891 stars</div>
+                                <div class="text">Maintaining a repository with 6892 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2078,7 +2078,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.061991710616446 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.063680607052264 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2548,7 +2548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 20 Jul 2021 02:57:47 (timezone Europe/London) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 20 Jul 2021 03:26:24 (timezone Europe/London) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
