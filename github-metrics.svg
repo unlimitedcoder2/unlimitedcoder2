@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lvgl/lvgl</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3117,7 +3117,7 @@ feat: advertises to redis server state</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2021, 08:04:32 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 20 Nov 2021, 09:02:53 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
