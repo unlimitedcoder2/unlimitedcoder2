@@ -1762,7 +1762,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Poppro/MCNE</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2939,7 +2939,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2021, 17:12:34 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 25 Nov 2021, 18:03:40 (timezone Europe/London) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
