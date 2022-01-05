@@ -405,7 +405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>couleur-tweak-tips/Moony</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalistic launcher for Lunar Client packed with quality of life features</div>
@@ -458,7 +458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoXLR-on-Linux/GoXLR-Utility</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI for configuring a GoXLR on Linux</div>
@@ -511,7 +511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitedani/socket.io-react-hooks</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -559,7 +559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukemnet/react-twitch-ext-onauthorized</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React hook performing authorization with Twitch Extensions JavaScript Helper</div>
@@ -1660,7 +1660,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 21:01:34 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 5 Jan 2022, 22:01:29 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
