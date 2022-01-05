@@ -405,7 +405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitedani/socket.io-react-hooks</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -453,7 +453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukemnet/react-twitch-ext-onauthorized</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React hook performing authorization with Twitch Extensions JavaScript Helper</div>
@@ -506,7 +506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitchdev/extensions-hello-world</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Simplest Extension in the (Hello) World</div>
@@ -559,7 +559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitchdev/twitch-cli</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official Twitch CLI to make developing on Twitch easier.</div>
@@ -1660,7 +1660,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 19:01:50 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 5 Jan 2022, 20:01:28 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
