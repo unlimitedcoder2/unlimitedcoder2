@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Moulberry/Minestand</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Annotation-based command framework for Minestom</div>
@@ -1672,7 +1672,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 01:25:18 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 02:18:26 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
