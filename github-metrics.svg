@@ -451,7 +451,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>pbatard/rufus</span>
-                                            <span>starred 1 day ago</span>
+                                            <span>starred 2 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">The Reliable USB Formatting Utility</div>
@@ -1687,7 +1687,7 @@ The following vulnerabilities are fixed with an upgrade:
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 19 Jan 2022, 22:01:26 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 19 Jan 2022, 23:01:28 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
