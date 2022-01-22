@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiteLDev/LiteLoaderBDS</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight plugin loader for Bedorck Dedicated Server(BDS)</div>
@@ -1686,7 +1686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 03:01:38 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 04:01:28 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
