@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HangarMC/Hangar</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin repository used for paper plugins</div>
@@ -1679,7 +1679,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 03:03:49 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 04:01:46 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
