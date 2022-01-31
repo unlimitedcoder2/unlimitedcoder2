@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Decencies/Vape</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Source vape client launcher, loader &amp; socket.</div>
@@ -435,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Decencies/LunarRemapper</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Mixin re-mapper for Lunar Client.</div>
@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CardboardPowered/cardboard</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Bukkit/Spigot/Paper API implementation for Fabric</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2022, 04:01:28 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 31 Jan 2022, 05:01:24 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
