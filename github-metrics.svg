@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thizzer/jtouchbar</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java library for using the touchbar API on supported macbooks.</div>
@@ -447,7 +447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>berdav/CVE-2021-4034</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CVE-2021-4034 1day</div>
@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Decencies/Vape</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Source vape client launcher, loader &amp; socket.</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Decencies/LunarRemapper</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Mixin re-mapper for Lunar Client.</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2022, 13:05:32 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 31 Jan 2022, 14:01:45 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
