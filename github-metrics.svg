@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeremycw/httpserver.h</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Single header library for writing non-blocking HTTP servers in C</div>
@@ -447,7 +447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thizzer/jtouchbar</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java library for using the touchbar API on supported macbooks.</div>
@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>berdav/CVE-2021-4034</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CVE-2021-4034 1day</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2022, 03:01:33 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 1 Feb 2022, 04:01:35 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
