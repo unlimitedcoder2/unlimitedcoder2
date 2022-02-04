@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dank/tarkov</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust library for the Escape from Tarkov API</div>
@@ -553,7 +553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jxck-S/plane-notify</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet</div>
@@ -1654,7 +1654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 18:01:30 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 19:01:41 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
