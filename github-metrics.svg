@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>net64-mod/net64-coop</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Super Mario 64 multiplayer modification</div>
@@ -447,7 +447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Godlander/objmc</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">python script to convert .OBJ files into Minecraft, rendering them in game with a core shader.</div>
@@ -553,7 +553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Perfare/Il2CppDumper</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unity il2cpp reverse engineer</div>
@@ -1654,7 +1654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 06:01:34 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 07:01:18 (timezone Europe/London) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
