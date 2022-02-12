@@ -390,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jOOQ/jOOR</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jOOR - Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way. The JDK's reflection APIs are hard and verbose to use. Other languages have much simpler constructs to access type meta information at runtime. Let us make Java reflection better.</div>
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KyoriPowered/adventure</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A user-interface library, formerly known as text, for Minecraft: Java Edition</div>
@@ -1644,7 +1644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2022, 09:01:31 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 12 Feb 2022, 10:01:32 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
