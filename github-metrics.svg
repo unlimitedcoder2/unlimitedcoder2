@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbeaupain/nio_uring</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">I/O library for Java that uses io_uring under the hood</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BetterDiscord/BetterDiscord</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Better Discord enhances Discord desktop app with new features.</div>
@@ -1641,7 +1641,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 22:01:27 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 22 Feb 2022, 23:01:31 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
