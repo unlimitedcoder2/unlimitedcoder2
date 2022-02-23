@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbeaupain/nio_uring</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">I/O library for Java that uses io_uring under the hood</div>
@@ -1652,7 +1652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 11:01:21 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 12:01:29 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
