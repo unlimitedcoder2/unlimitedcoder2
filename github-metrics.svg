@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/nvidia-container-toolkit</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build and run containers leveraging NVIDIA GPUs</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JonathanSalwan/VMProtect-devirtualization</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.</div>
@@ -1651,7 +1651,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 11:01:22 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 12:01:51 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
