@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmc2obj/j-mc-2-obj</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java-based Minecraft-to-OBJ exporter.</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LucasDower/ObjToSchematic</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to convert .obj files into Minecraft Schematics</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2022, 02:12:59 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 03:01:19 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
