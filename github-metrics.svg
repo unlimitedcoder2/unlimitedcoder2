@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blobanium/mineclub-expanded</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">QoL Mod for the server "Mineclub" (play.mineclub.com)</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BishopFox/unredacter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Never ever ever use pixelation as a redaction technique</div>
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Auties00/Reified</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reified in Java 11 and upwards</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Auties00/Optionless</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Desugar optional calls for a null safe type system with no performance hits</div>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2022, 05:01:26 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 27 Feb 2022, 06:01:32 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
